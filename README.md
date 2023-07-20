@@ -9,17 +9,20 @@ El proyecto está enfocado en la construcción de una página informativa de los
 
 * Header: Sección donde se encuentra la barra de navegación que cuenta con un logo minimalista y anclas remotas e informativas en la misma página.
   
-![image](https://github.com/AnahiMojica/axolotls_page/assets/139643365/b1ef29e3-8a24-4634-8ccd-28c9ae458912)
+![image](https://github.com/AnahiMojica/axolotls_page/assets/139643365/0e9d1c17-fe9b-4291-9d9c-5bcad7d5689f)
 
 * Main: Sección del contenedor para los elementos centrales y más importantes de la interfaz: Textos informativos, imágenes relacionadas, listas enumeradas, listas sin enumerar y el formulario.
 
-![image](https://github.com/AnahiMojica/axolotls_page/assets/139643365/ea9cddd4-f6ff-4ec8-b428-e86c4a042c92)
-![image](https://github.com/AnahiMojica/axolotls_page/assets/139643365/5a53bd6c-d0cd-474d-baee-56176395c7d6)
-![image](https://github.com/AnahiMojica/axolotls_page/assets/139643365/ee6d50cd-9192-4807-9137-0ac2316ec2b2)
+![image](https://github.com/AnahiMojica/axolotls_page/assets/139643365/63433aa3-abb5-4174-aec5-5d10e0c8039d)
+
+![image](https://github.com/AnahiMojica/axolotls_page/assets/139643365/75dfed08-0986-4c7e-b886-d23612a298e3)
+
+![image](https://github.com/AnahiMojica/axolotls_page/assets/139643365/0d8e9055-9ebc-41bb-97fa-1028a71c9a6e)
 
 * Footer: Sección que contiene información extra para el usuarix, así como hipervínculos al final de la página.
 
-![image](https://github.com/AnahiMojica/axolotls_page/assets/139643365/c9716b91-dbce-4a0a-b1dc-5a6d9bee6948)
+![image](https://github.com/AnahiMojica/axolotls_page/assets/139643365/ccb569ee-2e8c-4ba3-a05b-88b6124d6b1e)
+
 
 
 ## 📣 Objetivo del Proyecto
